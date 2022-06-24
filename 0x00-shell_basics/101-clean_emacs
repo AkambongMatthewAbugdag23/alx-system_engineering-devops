@@ -1,2 +1,2 @@
 #!/bin/bash
-rm files a script that deletes all files in the curren_basics# echo rm files
+rm *~
